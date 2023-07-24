@@ -1,3 +1,0 @@
-# Frontend
-
-ayuv application frontend

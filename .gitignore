@@ -1,3 +1,7 @@
-/schoolapp/.angular
-/schoolapp/node_modules
-/schoolapp/.idea
+node_modules/
+
+package-lock.json
+yarn.lock
+
+# IDE Cache Files
+.idea/
